@@ -1,0 +1,10 @@
+Testes funcionais:
+    É um tipo de testes de mais alto nível, com um fluxo baseado nas ações humanas.
+    Verifica se a implementação está cumprindo as regras de negócio, definições do cliente/usuário
+    Geralmente testa uma especificação, que pode envolver mais de método e classes.
+
+Testes de unidade:
+    É um tipo de testes de baixo nível, focado nas unidades mínimas do código, métodos ou classes.
+    Seu foco é garantir que o código esteja correto e bem escrito.
+    Verifica se a implementação está correta, ou seja, se um método faz exatamente o que ele diz que faz.
+
