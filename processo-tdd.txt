@@ -1,0 +1,3 @@
+O clico do teste funcional é semelhante ao ciclo do teste de unidades, porém, dentro da parte
+de escrever um código mínimo, para o teste funcional, contém todo o ciclo do teste de unidade, podendo ter 
+vários testes de unidades em um ciclo do teste funcional.
